@@ -1,0 +1,10 @@
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.Properties.Resources.resources
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.GenerateResource.Cache
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.pdb

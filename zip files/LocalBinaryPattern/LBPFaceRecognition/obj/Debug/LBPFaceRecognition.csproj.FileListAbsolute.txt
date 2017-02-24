@@ -1,0 +1,18 @@
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.exe.config
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.exe
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.pdb
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.Form1.resources
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.Properties.Resources.resources
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.exe
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\bin\Debug\LBPFaceRecognition.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.csprojResolveAssemblyReference.cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.Form1.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.Properties.Resources.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\LocalBinaryPattern\LBPFaceRecognition\obj\Debug\LBPFaceRecognition.csproj.GenerateResource.Cache

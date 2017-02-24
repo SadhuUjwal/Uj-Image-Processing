@@ -1,0 +1,8 @@
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\bin\Debug\ImageProcess.exe
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\bin\Debug\ImageProcess.pdb
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\obj\x86\Debug\ImageProcess.Form1.resources
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\obj\x86\Debug\ImageProcess.Properties.Resources.resources
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\obj\x86\Debug\ImageProcess.csproj.GenerateResource.Cache
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\obj\x86\Debug\ImageProcess.exe
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\obj\x86\Debug\ImageProcess.pdb
+E:\11.Task\1.Serve\Freelance\ST15_019_F_ImageProcessing\CPEG 540 - Assignment 7\ImageProcess\bin\Debug\ImageProcess.exe.config

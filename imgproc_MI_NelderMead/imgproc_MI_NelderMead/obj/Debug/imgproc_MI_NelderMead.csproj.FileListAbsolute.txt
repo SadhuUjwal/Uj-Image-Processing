@@ -1,0 +1,12 @@
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.exe.config
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.csprojResolveAssemblyReference.cache
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.exe
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.pdb
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.exe
+c:\users\tamás\documents\visual studio 2015\Projects\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\bin\Debug\imgproc_MI_NelderMead.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\imgproc_MI_NelderMead\imgproc_MI_NelderMead\obj\Debug\imgproc_MI_NelderMead.csprojResolveAssemblyReference.cache

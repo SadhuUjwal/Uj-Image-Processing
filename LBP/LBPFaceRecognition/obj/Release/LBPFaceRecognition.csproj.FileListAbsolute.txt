@@ -1,0 +1,9 @@
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Release\LBPFaceRecognition.exe.config
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Release\LBPFaceRecognition.exe
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\bin\Release\LBPFaceRecognition.pdb
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.Form1.resources
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.Properties.Resources.resources
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.exe
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.pdb
+C:\Users\Moorthy\Downloads\LocalBinaryPatternInpaint\LBPFaceRecognition\obj\Release\LBPFaceRecognition.csprojResolveAssemblyReference.cache

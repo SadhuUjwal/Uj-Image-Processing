@@ -1,0 +1,16 @@
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.pdb
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Form1.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormBrightness.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormContrast.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormRoatate.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormShift.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Properties.Resources.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingIntroStuff.csproj.GenerateResource.Cache
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingIntroStuff.exe.config
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingIntroStuff.csprojResolveAssemblyReference.cache
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingIntroStuff.Form1.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingIntroStuff.Properties.Resources.resources

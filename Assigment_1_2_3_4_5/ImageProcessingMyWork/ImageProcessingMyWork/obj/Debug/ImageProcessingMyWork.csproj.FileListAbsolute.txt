@@ -1,0 +1,63 @@
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.pdb
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csprojResolveAssemblyReference.cache
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Form1.resources
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Properties.Resources.resources
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csproj.GenerateResource.Cache
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormBrightness.resources
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormContrast.resources
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormRoatate.resources
+C:\ImageProcessingMyWork\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormShift.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.pdb
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csprojResolveAssemblyReference.cache
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Form1.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormBrightness.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormContrast.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormRoatate.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormShift.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Properties.Resources.resources
+F:\Image Processing\Jashn-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csproj.GenerateResource.Cache
+F:\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+F:\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+F:\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csprojResolveAssemblyReference.cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Form1.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormBrightness.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormContrast.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormRoatate.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormShift.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Properties.Resources.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csproj.GenerateResource.Cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormMatrix.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.pdb
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csprojResolveAssemblyReference.cache
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Form1.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormBrightness.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormContrast.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormMatrix.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormRoatate.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.FormShift.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.Properties.Resources.resources
+F:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment1\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.csproj.GenerateResource.Cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb
+H:\MS\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\bin\Debug\ImageProcessingMyWork.exe.config
+H:\MS\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.exe
+H:\MS\Image Processing\Uj-Assignments\Assigment_1_2_3_4_5\ImageProcessingMyWork\ImageProcessingMyWork\obj\Debug\ImageProcessingMyWork.pdb

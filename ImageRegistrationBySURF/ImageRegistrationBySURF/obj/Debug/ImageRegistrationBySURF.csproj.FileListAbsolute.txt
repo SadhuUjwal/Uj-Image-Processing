@@ -1,0 +1,71 @@
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe.config
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.xml
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.xml
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.xml
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.xml
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.xml
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\ZedGraph.resources.dll
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Form1.resources
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Properties.Resources.resources
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csproj.GenerateResource.Cache
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.exe
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.pdb
+d:\CSharp2013\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csprojResolveAssemblyReference.cache
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe.config
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.exe
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.xml
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.xml
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.xml
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.pdb
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.xml
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.xml
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csprojResolveAssemblyReference.cache
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Form1.resources
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Properties.Resources.resources
+D:\temp\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csproj.GenerateResource.Cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ImageRegistrationBySURF.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.dll
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.xml
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.GPU.xml
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.CV.UI.xml
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\Emgu.Util.xml
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\ZedGraph.xml
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\bin\Debug\zh-CN\ZedGraph.resources.dll
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csprojResolveAssemblyReference.cache
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Form1.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.Properties.Resources.resources
+H:\MS\Image Processing\Image Processing\Uj-Assignments\ImageRegistrationBySURF\ImageRegistrationBySURF\obj\Debug\ImageRegistrationBySURF.csproj.GenerateResource.Cache
